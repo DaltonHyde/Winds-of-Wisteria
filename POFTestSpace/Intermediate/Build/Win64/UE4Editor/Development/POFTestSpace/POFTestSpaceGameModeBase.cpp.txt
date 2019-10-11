@@ -1,0 +1,7 @@
+C:\Users\ty547135\Desktop\POFTestSpace\Intermediate\Build\Win64\UE4Editor\Development\POFTestSpace\Definitions.POFTestSpace.h
+c:\users\ty547135\desktop\poftestspace\source\poftestspace\POFTestSpaceGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ty547135\Desktop\POFTestSpace\Intermediate\Build\Win64\UE4Editor\Inc\POFTestSpace\POFTestSpaceGameModeBase.generated.h
